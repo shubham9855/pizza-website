@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: "1",
+    heading: "Pepperoni",
+    img: "web",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "12.99",
+  },
+  {
+    id: "2",
+    heading: "Mexican",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "22.99",
+  },
+  {
+    id: "3",
+    heading: "Chicken ZINGER",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "28.99",
+  },
+  {
+    id: "4",
+    heading: "Cheese",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "15.99",
+  },
+  {
+    id: "5",
+    heading: "Vegetarian",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "12.99",
+  },
+  {
+    id: "6",
+    heading: "Pepperoni",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "12.99",
+  },
+  {
+    id: "7",
+    heading: "Mexican",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "12.99",
+  },
+  {
+    id: "8",
+    heading: "Cheese",
+    img: "mexican",
+    desc: "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc",
+    price: "12.99",
+  },
+];
